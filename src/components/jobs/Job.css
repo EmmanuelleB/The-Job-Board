@@ -1,0 +1,35 @@
+.card-job{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    color: black;
+    margin: 20px;
+}
+
+.red{
+    border: 5px solid red;
+    
+}
+
+.green{
+    border: 5px solid green;
+    
+}
+
+.yellow{
+    border: 5px solid yellow;
+    
+}
+
+.blue{
+    border: 5px solid rgb(0, 153, 255)
+    
+}
+
+.salmon{
+    border: 5px solid salmon
+    
+}
